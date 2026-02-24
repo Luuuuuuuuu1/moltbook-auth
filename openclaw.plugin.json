@@ -1,0 +1,8 @@
+{
+  "id": "moltbook-auth",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
